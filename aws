@@ -1,5 +1,12 @@
 How it works: AWS allows users to access a wide array of services and resources, such as servers, storage, and databases, through the internet.
 Benefits: It helps organizations lower IT costs by replacing large upfront capital expenses with lower variable costs. It also enables them to scale up or down rapidly, and they can provision servers and other infrastructure in minutes instead of having to wait weeks or months.
 Service offerings: AWS offers more than 200 services, including those for computing, storage, databases, analytics, and security, with services like AWS Lambda and AWS WAF (Web Application Firewall).
-Global reach: AWS operates on a massive global infrastructure, making it a scalable and reliable platform for businesses in 190 countries around the world. 
-
+Core uses and services
+Compute: Provides virtual servers and computing power to run applications and workloads. 
+Storage: Offers various storage options, from object storage for unstructured data to block storage for databases. 
+Databases: Provides managed database services, including relational and non-relational databases, for applications. 
+Networking and Content Delivery: Manages network traffic, provides content delivery networks (CDNs), and creates virtual private networks (VPCs). 
+Security: Offers tools and services to manage identity, access, and security policies. 
+Analytics: Provides services for big data processing, data warehousing, and real-time data streaming. 
+DevOps: Supports the entire software development lifecycle with services for building, testing, and deploying applications. 
+Migration: Offers tools and services to help move existing on-premises data and applications to the cloud. 
