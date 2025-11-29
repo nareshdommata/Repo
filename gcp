@@ -5,3 +5,7 @@ Data Analytics: Tools like BigQuery allow for the analysis of large datasets and
 Networking: Services to build internal and external networks, including VPN connections.
 AI and Machine Learning: A broad set of AI and ML capabilities and APIs.
 Security: Features like access control, encryption, and Identity-Aware Proxy to secure applications and data. 
+How it works
+GCP operates on a public cloud model, meaning its resources are available over the internet to multiple organizations and individuals who pay for the services they use.
+It provides Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS) options.
+Users can access and manage these services through a web-based console or APIs to run applications, store data, and leverage advanced technologies like machine learning. 
